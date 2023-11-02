@@ -21,19 +21,19 @@ form {
 form {
   display: block;
   background-color: rgb(199, 199, 199);
-  width: 450px;
-  height: 650px;
+  width: 350px;
+  height: 525px;
   border-radius: 15px;
 }
 
 input,
 button {
-  padding: 10px;
+  padding: 5px;
   border-radius: 5px;
 }
 
 input {
-  margin: 40px auto;
+  margin: 20px auto;
   font-size: 25px;
 }
 
@@ -64,8 +64,8 @@ button {
   border: 1px solid gray;
   background: black;
   color: whitesmoke;
-  font-size: 35px;
-  width: 150px;
+  font-size: 30px;
+  width: 125px;
   margin: 10px auto;
 }
 
