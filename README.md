@@ -11,7 +11,7 @@ This was a project I completed for Meta'a Front-End Developer course, and my fir
 
 ## Project Overview
 
-For Meta to pass me, the UI/UX wasn't important. All I needed to do was ensure the calculator's logic worked. This required me to understand concepts like both the useState and useRef hooks, as well as how to create a controlled form.
+In order to pass, the UI/UX wasn't important. All I needed to do was ensure the calculator's logic worked. This required me to understand concepts like both the useState and useRef hooks, as well as how to create a controlled form.
 
 However, after passing, I went back to code custom CSS and transform the calculator into a much better looking app. This was done by utilizing the UX/UI skills I developed in a later chapter of Meta's course that taught Figma. Here are images of before and after.
 
