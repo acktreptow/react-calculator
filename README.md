@@ -4,10 +4,10 @@ This was a project I completed for Meta'a Front-End Developer course, and my fir
 
 ## Technologies Used:
 
-- HTML
-- CSS
 - React
 - Figma
+- CSS
+- HTML
 
 ## Project Overview
 
@@ -23,7 +23,7 @@ However, after passing, I went back to code custom CSS and transform the calcula
 
 ![Updated calculator](images/new-calculator.png)
 
-Overall, this was a very fulfilling project as it significantly increased my React skills. From basic concepts such as how a Create React App template looks like, to more advanced skills like using multiple hooks within one onClick event assigned to a button. 
+Overall, this was a very fulfilling project as it significantly increased my React skills. From basic concepts such as how a Create React App template looks like, to more advanced skills like using multiple hooks within one onClick event assigned to a button.
 
 Additionally, by transforming the calculator's aesthetic to improve the UX, I also sharped my CSS skills like CSS grid.
 
